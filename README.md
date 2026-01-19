@@ -6,7 +6,7 @@
 
 - 🔭 currently learning KMM, KMP
 - 💬 Ask me about **Android, Kotlin, Java, Firebase**
-- 🥅 2025 Goals: Contribute more to Open Source projects
+- 🥅 2026 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love listening to audiobooks
 - 👯 I’m looking to collaborate with other developer
 
